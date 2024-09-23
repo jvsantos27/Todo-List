@@ -1,2 +1,1 @@
-Repositório dedicado as aulas de terça-feira;
-Professor Jeferson Eduardo Guido, lecionando a matéria de Programação Web - 6° Período - Turma B.
+Repositório dedicado as aulas de terça-feira, Todo-List e códigos passados em aula presencial.
